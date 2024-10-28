@@ -30,7 +30,7 @@ public class Spiel {
     public UUID getUuid() {
         return uuid;
     }
-
+// ICH WERDE EINEN MERGECONFLICT VERURSACHEN
     public int getStartScore() {
         return startScore;
     }
